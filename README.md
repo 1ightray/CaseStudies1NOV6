@@ -9,7 +9,9 @@ Coinberry is a Canadian digital asset trading platform that provides users the e
 <br>
 - *Ritesh Chugani*
 <br>
-- *Amamdeep Kaur*
+- *Amandeep Kaur*
 <br>
+
 - *Gwendalynn Lim*
+
 <br>
